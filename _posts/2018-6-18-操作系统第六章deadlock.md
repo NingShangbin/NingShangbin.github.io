@@ -1,9 +1,9 @@
 ---
 published: true
 title: NMF
-category: Research
+category:  Dialogue System
 tags: 
-  - Research
+  -  Dialogue System
 	
 layout: post
 ---
