@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
+title: 个人介绍
 subtitle:
 description: welcome
 author: NingShangbin
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: zh-Hans，fr-FR,
 date_format: '%Y-%m-%d'
 
 # URL

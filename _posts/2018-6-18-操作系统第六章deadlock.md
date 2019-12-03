@@ -1,9 +1,10 @@
 ---
 published: true
-title: Modern Operating Systems chapter 6 notes Deadlock
-category: Operating system
+title: NMF
+category: Research
 tags: 
-  - Operating system
+  - Research
+	
 layout: post
 ---
 
