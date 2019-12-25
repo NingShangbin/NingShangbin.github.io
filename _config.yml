@@ -4,13 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: welcome
+title: Couragelogos
 subtitle:
-description: QQ： 411760947  
-	WeChat：NingShangbinCN
+description: Make Things Possible
 author: NingShangbin
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -125,6 +124,7 @@ menu:
   #github: /github/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
+  something: /something/
 
 
 # Enable/Disable menu icons.
@@ -153,9 +153,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
+scheme: Muse
 #scheme: Mist
-scheme: Pisces
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -238,7 +238,8 @@ social_icons:
 
 # Sidebar Avatar
 in directory: 
-avatar: assets/portrait.jpg
+
+avatar: _posts/image/ningshangbin.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -706,5 +707,3 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
-
-theme: jekyll-theme-minimal
