@@ -3,57 +3,45 @@ title: about
 layout: page
 ---
 
-此博客开通于2018/1/24，写些东西，记录生活，如此而已。
+# <p align="center">简历</p>
+基本信息
 
-我很喜欢Bob Dylan的一首歌，叫《forever young》。
+姓名 | 宁尚彬|出生日期| 1993.6.26|
+---|---|---|---
+性别 | 男 |
+学校 | 聊城大学
+学历| 研究生
 
-	May God bless and keep you always
-	May your wishes all come true
-	May you always do for others
-	And let others do for you
-	May you build a ladder to the stars
-	And climb on every rung
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
-	May you grow up to be righteous
-	May you grow up to be true
-	May you always know the truth
-	And see the lights surrounding you
-	May you always be courageous
-	Stand upright and be strong
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
-	May your hands always be busy
-	May your feet always be swift
-	May you have a strong foundation
-	When the winds of changes shift
-	May your heart always be joyful
-	And may your song always be sung
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
+# 联系方式
+（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
 
-我很喜欢《Rick And Morty》。
-
-我很喜欢茨威格和毛姆的书。
-
-我很喜欢玩游戏并且经常浸入其中。
-
-我认为人生毫无意义，以此对抗生活。
-
-我爱打篮球，Tim Duncun是我的偶像。
-
-我现在的理想是做出一个游戏AI(NPC)，它会与某些人产生感情并伴其一生。
-
-我认为人类的仪式感毫无用处但我经常会自己制造仪式感。
-
-我认为The One也许是不存在的，我们永远也找不到自己的The One。
-
-我永远喜欢守望先锋，这个世界需要更多英雄。
-
-短发女生是宇宙最可爱的生物。
+- 手机：
+    -   18865274278 （```常用```）
+    -   17600147869（```北京，备用```）
+- Email：
+    -   zane.ningwork@gmail.com (```国外```)
+    -   ningshangbin@lcu.edu.cn（```学校```）
+    -   411760947@qq.com（```常用```）
+- ！技术博客：https://www.ningshangbin.cn ( ``` 要自己维护一下技术展示和心得记录 ```  )
+- Github：https://github.com/NingShangbin 
+- QQ：      411760947
+- 微信号：  NingShangbinCN（```常用```）
+- @微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
 
 
+
+教育经历 :
+    
+	2017/09 - 2020/07		聊城大学计算机学院硕士      	|	学生会主席
+	2012/09 - 2016/07		聊城大学计算机学院本科  		|	组织委员
+	2009/09 - 2012/07		山东省宁阳县第一中学		    |	课代表
+	2017/09 - 2020/07		山东省宁阳县实验中学			|	班长
+	2017/09 - 2020/07		山东省宁阳县北关小学			|	
+
+专业技能：
+* 熟练使用Git、SVN常用命令 能更好的进行协同开发
+* 注重并能遵守代码规范，代码风格良好，希望代码更加优雅，渴望挑战
+* 动手能力强
+#### **致谢**
+**非常感谢您花宝贵的时间阅读我的简历，期待能有机会与您共事。谢谢！**
 
