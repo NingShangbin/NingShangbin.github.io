@@ -30,6 +30,12 @@ layout: page
 
 
 
+奖项：
+
+​	https://www.ningshangbin.cn/%E5%A5%96%E9%A1%B9/2019/12/26/CCF%E5%AE%A3%E4%BC%A0%E5%A4%A7%E4%BD%BF/
+
+
+
 教育经历 :
     
 	2017/09 - 2020/07		聊城大学计算机学院硕士      	|	学生会主席
